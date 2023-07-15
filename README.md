@@ -1,4 +1,4 @@
-This scripts gets a random image from the microsoft spotlight api endpoint and saves it in `~/.config/spotlight-imgs/current.png` (the old one is saved in `~/.config/spotlight-imgs/history`) so you can enjoy spotlight backgrounds with your favourite lockscreen.
+This scripts gets a random image from the [windows spotlight](https://en.wikipedia.org/wiki/Windows_spotlight) api endpoint and saves it in `~/.config/spotlight-imgs/current.png` (the old one is saved in `~/.config/spotlight-imgs/history`) so you can enjoy spotlight backgrounds with your favourite lockscreen.
 
 For i3lock:
 
