@@ -6,7 +6,7 @@ For i3lock:
 
 To set a new image:
 
-`python3 main.py` (you could set it up to run on startup)
+`python3 spotlight.py` (you could set it up to run on startup)
 
 you'll have to figure out multi monitor stuff out for yourself. Only 1920*1080 imgs are downloaded. See source if you want to know more.
 
